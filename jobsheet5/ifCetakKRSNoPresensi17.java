@@ -14,6 +14,7 @@ public class ifCetakKRSNoPresensi17 {
             System.out.println("Silakan cetak KRS dan minta tanda tangan DPA");
         } else {
             System.out.println("Anda belum bisa mencetak KRS!");
+            System.out.println("Silahkan lakukan pembayaran UKT terlebih dahulu.");
         }
 
         sc.close();
